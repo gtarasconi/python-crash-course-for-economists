@@ -1,8 +1,6 @@
 # python-crash-course-for-economists
 
-Dear all
-
-The Python class will use an interactive tool called "Jupyter notebooks" that lets you follow along in the slides, as 
+This Python course will use an interactive tool called "Jupyter notebooks" that lets you run our scripts, as 
 well as write and execute your own code. To use these notebooks, you will have to install Anaconda Python and make sure 
 it is running.
 
@@ -31,4 +29,4 @@ to find it]
 You should see an encouraging message if all is working correctly.
 
 
-
+[this course is still a work in progress]
