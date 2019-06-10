@@ -1,0 +1,13 @@
+
+Installation of Spacy and Englidh dictionary
+
+from anaconda prompt
+
+CONDA install spacy
+python -m spacy download en
+
+
+TEST correct installation
+
+import spacy
+nlp = spacy.load('en', disable=['parser', 'ner'])
