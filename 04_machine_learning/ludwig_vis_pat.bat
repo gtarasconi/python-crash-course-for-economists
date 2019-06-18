@@ -1,0 +1,1 @@
+c:\python36\python -m ludwig.visualize --visualization learning_curves --training_statistics D:/temp2/p/patresults1/experiment_run_0/training_statistics.json
