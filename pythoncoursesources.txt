@@ -1,0 +1,31 @@
+
+sources
+
+https://www.tensorflow.org/api_docs/python/tf/estimator/DNNClassifier
+https://www.tensorflow.org/hub/tutorials/text_classification_with_tf_hub
+https://medium.com/tensorflow/building-a-text-classification-model-with-tensorflow-hub-and-estimators-3169e7aa568
+https://dev.to/chrishunt/code-free-machine-learning-with-ludwig-2gap
+https://uber.github.io/ludwig
+https://towardsdatascience.com/10-tips-to-build-a-better-modeling-dataset-for-tree-based-machine-learning-models-ad23ce7d836
+
+https://medium.com/@wilamelima/mining-twitter-for-sentiment-analysis-using-python-a74679b85546
+regex.bastardsbook.com/
+https://regex101.com/
+https://www.regular-expressions.info
+
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234
+
+about Ludwig:
+https://dev.to/chrishunt/code-free-machine-learning-with-ludwig-2gap
+
+Suggested:
+
+About data visualization
+https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder
+
+
+
+
+
+
