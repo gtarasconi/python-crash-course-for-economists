@@ -1,0 +1,20 @@
+input_features:
+    -
+        name: EARLIEST_FILING_YEAR
+        type: numerical
+    -
+        name: APPLN_ABSTRACT
+        type: text
+        level: word  
+        encoder: parallel_cnn
+        preprocessing:
+          word_format: english_lemmatize_remove_stopwords
+
+    -
+        name: PSN_NAME
+        type: category
+
+output_features:
+    -
+        name: IPC4
+        type: category

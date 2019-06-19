@@ -1,0 +1,24 @@
+
+input_features:
+    -
+        name: APPLN_ABSTRACT
+        type: text
+        level: word  
+        encoder: parallel_cnn
+        preprocessing:
+          word_format: english_tokenize
+
+
+output_features:
+    -
+        name: IPC4
+        type: category
+        
+training:
+  batch_size: 128
+  epochs: 1000
+  early_stop: 50
+  learning_rate: 0.003
+  optimizer:
+    type: adagrad    
+
