@@ -1,1 +1,0 @@
-c:\python37\python -m ludwig.experiment --data_csv patentdata.csv --model_definition_file modeldefinition.yaml --output_directory patresults1
