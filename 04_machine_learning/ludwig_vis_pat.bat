@@ -1,0 +1,1 @@
+python -m ludwig.visualize --visualization learning_curves --training_statistics patresults1\experiment_run_0/training_statistics.json
